@@ -237,5 +237,3 @@ def train():
 		json.dump(temp, WeightsFile)
 		WeightsFile.write("\n")
 	WeightsFile.close()
-
-
